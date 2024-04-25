@@ -1,0 +1,407 @@
+    1  ls -al
+    2  cat id_rsa.pub
+    3  cd ~/.ssh
+    4  cd ~/ .ssh
+    5  ls -al
+    6  cat id rsa.bub
+    7  cat id_rsa.bub
+    8  cat id_rsa.pub
+    9  git config --global user.name Yevhen-Onufriienko
+   10  git config --global user.email onufrienko0990@gmail.com
+   11  git config --global -l
+   12  ssh -T git@github.com
+   13  ssh -T git@github.com
+   14  cd
+   15  mkdir -p IT-CH/GIT/Work
+   16  cd IT-CH/GIT/Work
+   17  git clone git@github.com:Yevhen-Onufriienko/290124-wdm.git
+   18  ls -al
+   19  ls -al IT-CH/GIT/Work
+   20  ls -al
+   21  ls -al .git
+   22  git clone git@github.com:Yevhen-Onufriienko/290124-wdm.git
+   23  cd IT-CH/GIT/Work/290124-wdm
+   24  cd IT-CH/GIT/Work/290124-wdm/
+   25  git clone git@github.com:Yevhen-Onufriienko/290124-wdm.git
+   26  ls -al IT-CH/GIT/Work/290124-wdm
+   27  cd
+   28  ls -al
+   29  cd IT-CH/GIT/Work/290124-wdm
+   30  ls -al
+   31  git clone git@github.com:Yevhen-Onufriienko/290124-wdm.git
+   32  cd 290124-wdm/
+   33  cd 290124-wdm/
+   34  cd IT-CH/GIT/Work/
+   35  ls -al
+   36  cd
+   37  cd IT-CH/GIT/Work
+   38  ls -al
+   39  cd IT-CH/GIT/Work/290124-wdm
+   40  cd IT-CH/GIT/Work/290124-wdm/
+   41  cd /IT-CH/GIT/Work/290124-wdm/
+   42  cd IT-CH/GIT/Work/290124-wdm
+   43  ls -al IT-CH/GIT/Work/290124-wdm
+   44  cd IT-CH/GIT/Work/
+   45  ls -al
+   46  cd IT-CH/GIT/Work/290124-wdm
+   47  cd
+   48  ls -al
+   49  cd IT-CH/
+   50  ls -al
+   51  cd IT-CH/GIT/
+   52  cd IT-CH/GIT
+   53  cd IT-CH/GIT/Work/290124-wdm
+   54  cd /IT-CH/GIT/Work/290124-wdm
+   55  cd IT-CH/GIT/Work/
+   56  cd IT-CH/GIT/Work
+   57  cd 
+   58  cd IT-CH/GIT/
+   59  cd IT-CH/GIT/Worc
+   60  cd IT-CH/GIT/Work/
+   61  cd IT-CH/GIT/Work
+   62  cd /IT-CH/GIT/Work
+   63  cd IT-CH/GIT/Work/
+   64  cd Work
+   65  ls -al
+   66  cd 290124-wdm/
+   67  ls -al
+   68  cd Work
+   69  cd Work/
+   70  cd
+   71  Work
+   72  cd Work
+   73  cd Work/
+   74  ls -al
+   75  cd Work
+   76  cd 290124-wdm/
+   77  cd IT-CH/GIT/Work/
+   78  ls -al
+   79  cd 290124-wdm/
+   80  ls -al
+   81  cd IC-CH
+   82  cd IT-CH/GIT/Work/
+   83  ls -al
+   84  cd 290124-wdm/
+   85  ls -al
+   86  ls -al
+   87  cd
+   88  ls -al
+   89  mkdir linux
+   90  ls -al
+   91  cd linux
+   92  mkdir git_intro
+   93  ls -al
+   94  cd linux/git_intro/
+   95  cd linux/git_intro
+   96  cd git_intro
+   97  git clone https://github.com/Yevhen-Onufriienko/git_intro.git
+   98  ls -al
+   99  ls -al
+  100  git_intro
+  101  cd git_intro
+  102  ls - al
+  103  git add Blumen
+  104  git add Blumen
+  105  git add Blumen.jpeg
+  106  cd
+  107  git config --global user.email onufrienko0990@gmail.com
+  108  cd linux/git_intro
+  109  cd linux/git_intro
+  110  ls -al
+  111  git_intro
+  112  cd git_intro
+  113  git add Blumen.jpeg
+  114  git add Blumen
+  115  git add 123
+  116  git add 123.jpg
+  117  git pusch
+  118  git push
+  119  git config --global user.email onufrienko0990@gmail.com
+  120  git config --global user.name Yevhen-Onufriienko
+  121  cd linux/git_intro
+  122  ls -al
+  123  cd git_info
+  124  cd git_info
+  125  ls -al.
+  126  ls -al
+  127  cd git_intro
+  128  git add 123.jpg
+  129  git commit -m "Blumen"
+  130  git push
+  131  git config --global user.email onufrienko0990@gmail.com
+  132  git config --global user.name Yevhen-Onufriienko
+  133  cd git_info
+  134  ls -al
+  135  cd linux/git_intro/
+  136  cd git_intro/
+  137  git add 123.jpg
+  138  git add 123.JPG
+  139  git commit -m "Blumen"
+  140  git push
+  141  cd IT-CH/GIT/Work/290124-wdm
+  142  ls -al
+  143  cd git
+  144  cd .git
+  145  ls -al
+  146  cd IT-CH/GIT/Work/290124-wdm
+  147  ~
+  148  cd ..
+  149  git branch -v
+  150  git log --oneline --all
+  151  cd IT-CH/GIT/Work/290124-wdm
+  152  cd IT-CH/GIT/Work/290124-wdm
+  153  cat .gitignore
+  154  git branch -v
+  155  ls -al
+  156  cd IT-CH/GIT/Work/290124-wdm
+  157  ..
+  158  cd ..
+  159  ls -al
+  160  cd 290124-wdm
+  161  ls -al
+  162  cd..
+  163  cd ..
+  164  ls -al
+  165  mkdir github
+  166  ls -al
+  167  cd github/
+  168  git clone github.com/Yevhen-Onufriienko/Demo-Fork.git
+  169  git clone git@github.com:Yevhen-Onufriienko/Demo-Fork.git
+  170  git checout -b Yevhen_Onufriienko
+  171  git checkout -b Yevhen_Onufriienko
+  172  ls -al
+  173  cd Demo-Fork/
+  174  nano script1.sh
+  175  ls -al
+  176  nano script1.sh
+  177  git status
+  178  cat script1.sh 
+  179  git commit
+  180  git add .
+  181  git status
+  182  git commit -m
+  183  git commit -m "name"
+  184  git commit -m "name and date"
+  185  git push
+  186  git branch -v
+  187  ls -al
+  188  git branch -v
+  189  git push
+  190  git branch -v
+  191  git branch -v
+  192  git branch -v
+  193  git checkout  Yevhen_Onufriienko
+  194  git checkout -b Yevhen_Onufriienko
+  195  edit file script1.sh
+  196  nano script1.sh 
+  197  git commit 
+  198  git push
+  199  git branch -v
+  200  ls - al
+  201  ls - al
+  202  git branch -v
+  203  git push
+  204  nano script1.sh 
+  205  git push --set-upstream origin Yevhen_Onufriienko
+  206  nano script1.sh 
+  207  ls - al
+  208  git status
+  209  cd Demo-Fork/
+  210  cd 290124-wdm
+  211  cd IT-CH/GIT/Work/290124-wdm
+  212  git status
+  213  git branch -v
+  214  ls - al
+  215  ls -al
+  216  cd Demo-Fork/
+  217  nano script1.sh 
+  218  git checkout -b Yevhen_Onufriienko
+  219  nano script1.sh 
+  220  ls -al
+  221  cd Demo-Fork/
+  222  cd ..
+  223  ls -al
+  224  cd ..
+  225  ls -al
+  226  cd ..
+  227  ls -al
+  228  cd ..
+  229  cd ..
+  230  ls -al
+  231  git checkout -b Yevhen_Onufriienko
+  232  cd IT-CH/GIT/Work/290124-wdm
+  233  cd IT-CH/GIT/Work/290124-wdm
+  234  cd
+  235  cd IT-CH/GIT/Work/290124-wdm
+  236  ls -al
+  237  cd IT-CH/GIT/Work/290124-wdm
+  238  ls -al
+  239  nano myfirstbashscript.sh 
+  240  chmod u+rwx myfirstbashscript.sh
+  241  ls -al
+  242  nano myfirstbashscript.sh 
+  243  ./myfirstbashscript.sh 
+  244  ls -al
+  245  nano result.txt 
+  246  ls -al
+  247  cd ..
+  248  ls -al
+  249  cd PRinVCS/
+  250  ls -al
+  251  cd ..
+  252  ls -al
+  253  mkdir git-branch
+  254  cd git-branch/
+  255  git init
+  256  ls -al
+  257  git remote add origin git@github.com:Yevhen-Onufriienko/git-branch.git
+  258  git checkout -b gitignore
+  259  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  260  git add .gitignore
+  261  git commit -m "Added .gitignore file"
+  262  git push origin gitignore
+  263  cd
+  264  ssh ec2-user@linux.itcareerhub.de
+  265  ssh ec2-user@linux.itcareerhub.de
+  266  exit
+  267  scp [200~
+  268  ssh ec2-user@linux.itcareerhub.de
+  269  scp ssh ec2-user@linux.itcareerhub.de /opt/290124-wdm/Yevhen_Onufriienko/permission_checker.sh C:\Users\onufr\IT-CH\GIT\Work\290124-wdm
+  270  scp ec2-user@linux.itcareerhub.de:/opt/290124-wdm/Yevhen_Onufriienko/permission_checker.sh "C:\Users\onufr\IT-CH\GIT\Work\290124-wdm"
+  271  ls -al
+  272  exit
+  273  cd git-branch/
+  274  cd IT-CH/GIT/Work/290124-wdm
+  275  cd ..
+  276  ls -al
+  277  git branch
+  278  git branch -a
+  279  cd git-branch/
+  280  git branch
+  281  git branch --list main
+  282  git checkout main
+  283  git branch -m main
+  284  git checkout -b gitignore
+  285  git branch 
+  286  ls -al
+  287  nano .gitignore 
+  288  git add .
+  289  [200~git commit -m "Добавлен файл .gitignore"
+  290  git commit -m "Добавлен файл .gitignore"
+  291  git checkout gitignore
+  292  git push origin gitignore
+  293  cd IT-CH/GIT/Work/290124-wdm
+  294  git status
+  295  ls -al
+  296  cd ..
+  297  ls -al
+  298  cd git-branch/
+  299  git branch 
+  300  git clone git@github.com:Yevhen-Onufriienko/git-branch.git
+  301  git checout -b gitignore
+  302  git checkout -b gitignore
+  303  ls -al
+  304  git puss
+  305  git push
+  306  git push --set-upstream origin gitignore
+  307  git status
+  308  git push
+  309  history
+  310  nano script.sh
+  311  cd IT-CH/GIT/Work/290124-wdm
+  312  cd ..
+  313  ls -al
+  314  cd ..
+  315  ls -al
+  316  cd Work/
+  317  pwd
+  318  mkdir new_repo
+  319  cd new_repo/
+  320  git init
+  321  git clone git@github.com:Yevhen-Onufriienko/-new-repository1.git
+  322  git checkout -b new project
+  323  git checkout -b new_project
+  324  git branch -m new_project feature
+  325  nano README.md
+  326  nano .gitignore
+  327  git status
+  328  $ git commit -m "Добавлены изменения в файлы README.md и .gitignore"
+  329  git status
+  330  git add .gitignore 
+  331  git add README.md 
+  332  git status
+  333  git add new-repository1/
+  334  git status
+  335  git add new-repository1
+  336  git status
+  337  git add .
+  338  git status
+  339  $ git commit -m "Добавлены изменения в файлы README.md и .gitignore"
+  340  git commit -m "Добавлены изменения в файлы README.md и .gitignore"
+  341  git status
+  342  git push origin feature
+  343  git checkout feature
+  344  git push origin feature
+  345  git push feature
+  346  git push --set-upstream origin feature
+  347  git status
+  348  git push 
+  349  git push origin feature
+  350  git clone git@github.com:Yevhen-Onufriienko/-new-repository1.git
+  351  git clone git@github.com:Yevhen-Onufriienko/-new-repository1.git
+  352  git push origin feature
+  353  git push -new-repository1 feature
+  354  git push new-repository1 feature
+  355  git remote add new-repository1 git@github.com:Yevhen-Onufriienko/-new-repository1.git
+  356  git push new-repository1 feature
+  357  git commit --amend
+  358  cd IT-CH/GIT/Work/290124-wdm
+  359  cd ..
+  360  ls -al
+  361  cd new_repo/
+  362  git commit --amend "amend"
+  363  git config --global core.editor "nano"
+  364  git commit --amend 
+  365  git checkout main
+  366  git branch
+  367  cd ..
+  368  git branch
+  369  ls -al
+  370  cd 290124-wdm/
+  371  git branch
+  372  git checkout main
+  373  git merge feature
+  374  git branch
+  375  cd ..
+  376  ls -al
+  377  cd new_repo/
+  378  git branch
+  379  git merge feature
+  380  git checkout main
+  381  cd ..
+  382  git branch
+  383  ls -al
+  384  cd git-branch/
+  385  git branch
+  386  cd ..
+  387  ls -al
+  388  cd new_repo/
+  389  git branch
+  390  git branch -a
+  391  cd ..
+  392  ls -al
+  393  cd 290124-wdm/
+  394  git branch
+  395  git merge feature
+  396  cd ..
+  397  ls -al
+  398  cd new_repo/
+  399  git checkout -b main feature
+  400  git merge feature
+  401  git branch
+  402  git push -u origin main
+  403  git push -u new-repository1 main
+  404  git pull origin main
+  405  git pull new-repository1 main
+  406  git pull new-repository1 main --allow-unrelated-histories
+  407  history > history.txt
